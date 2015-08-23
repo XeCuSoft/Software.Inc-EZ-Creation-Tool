@@ -1,0 +1,20 @@
+1|Mods|ModSause|-|http://softwareinc.coredumping.com/forum/index.php?topic=129.0
+2|Mods|ItsMeCarsens Modding|-|http://softwareinc.coredumping.com/forum/index.php?topic=189.0
+3|Mods|Amenschs Mod|-|http://softwareinc.coredumping.com/forum/index.php?topic=273.0
+4|Mods|Gingys RazzleDazzle Mod|-|http://softwareinc.coredumping.com/forum/index.php?topic=142.0
+5|Mods|Mod - More Software|-|http://softwareinc.coredumping.com/forum/index.php?topic=142.0
+6|Mods|Mo Stuff Mod|-|http://softwareinc.coredumping.com/forum/index.php?topic=245.0
+7|Mods|Chckns Mod|-|http://softwareinc.coredumping.com/forum/index.php?topic=258.0
+8|Mods|Simple Software|-|http://steamcommunity.com/app/362620/discussions/0/535152276587407892/
+9|Mods|More Scenarios|-|http://softwareinc.coredumping.com/forum/index.php?topic=284.0
+10|Mods|SqualMod|-|http://softwareinc.coredumping.com/forum/index.php?topic=290.0
+11|Translation|Danish|-|http://softwareinc.coredumping.com/forum/index.php?topic=214.0
+12|Translation|German|-|http://softwareinc.coredumping.com/forum/index.php?topic=193.0
+13|Translation|Brazilian Portuguese|-|http://softwareinc.coredumping.com/forum/index.php?topic=187.0
+14|Translation|Portuguese|-|http://softwareinc.coredumping.com/forum/index.php?topic=186.0
+15|Translation|Spanish|-|http://softwareinc.coredumping.com/forum/index.php?topic=76.0
+16|Translation|French|-|http://softwareinc.coredumping.com/forum/index.php?topic=287.0
+17|Translation|Russia|-|http://steamcommunity.com/app/362620/discussions/0/523890046875975182/
+18|Translation|Pig Latin|-|http://softwareinc.coredumping.com/forum/index.php?topic=320.0
+19|Tools|Modding Programm by Amensch|-|http://softwareinc.coredumping.com/forum/index.php?topic=213.0
+20|Tools|Software Inc EZ Creation Tool|-|http://softwareinc.coredumping.com/forum/index.php?topic=192.0
